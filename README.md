@@ -71,11 +71,12 @@ In this part weather data skills was used to plan future vacations. Also, use Ju
   5. Fig3.png: city latitude vs cloudness
   6. Fig4.png: city latitude vs wind.
   7. cities.csv: csv file with the data needed.
-  8. City Humidity Map inside the vacation jupuyter notebook
-  9. Hotel Location Map inside the vacation jupuyter notebook
-  10. Northern_Hemisphere_cloudniness.png
-  11. Southern_Hemisphere_cloudniness.png
-  13. Northern_Hemisphere_humididity.png
-  14. Southern_Hemisphere_humididity.png
-  15. Northern_Hemisphere_windspeed.png
-  16. Northern_Hemisphere_windspeed.png
+     Withing the Jupyter notebook:
+  9. City Humidity Map inside the vacation 
+  10. Hotel Location Map inside the vacation 
+  11. Northern_Hemisphere_cloudniness
+  12. Southern_Hemisphere_cloudniness
+  13. Northern_Hemisphere_humididity
+  14. Southern_Hemisphere_humididity
+  15. Northern_Hemisphere_windspeed
+  16. Northern_Hemisphere_windspeed
