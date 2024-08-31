@@ -13,7 +13,7 @@ In this Part, I used the WeatherPy.ipynb starter Jupyter notebook provided in th
 To fulfill the first requirement,the OpenWeatherMap API is uded to retrieve weather data from the cities list generated in the starter code. Next, A series of scatter plots is created  to showcase the following relationships:
 
    •	Latitude vs. Temperature
-   ![Fig1](https://github.com/user-attachments/assets/22d777ba-bc98-4381-8d6b-cf7b2bec6781)
+![Fig1](https://github.com/user-attachments/assets/59b7c2ec-eb9d-4b0e-b550-c9a3dec5ee62)
 
    •	Latitude vs. Humidity
    
@@ -36,14 +36,13 @@ Next, a series of scatter plots is created and analyised :
    •	Southern Hemisphere: Humidity vs. Latitude
    
    •	Northern Hemisphere: Cloudiness vs. Latitude
-   ![Northern_Hemisphere_cloudiness](https://github.com/user-attachments/assets/1ef456e9-886a-478b-a100-8491111d47d2)
 
    •	Southern Hemisphere: Cloudiness vs. Latitude
    
    •	Northern Hemisphere: Wind Speed vs. Latitude
    
    •	Southern Hemisphere: Wind Speed vs. Latitude
-![Southern_Hemisphere_windspeed](https://github.com/user-attachments/assets/8c871384-7654-4c73-a1fc-6335b179e367)
+
 
 # Part 2: VacationPy
 In this part weather data skills was used to plan future vacations. Also, use Jupyter notebooks, the geoViews Python library, and the Geoapify API used used.The code needed to import the required libraries and load the CSV file with the weather and coordinates data for each city created in Part 1 was provided to help get started. 
