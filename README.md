@@ -28,13 +28,15 @@ Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere
 Next, a series of scatter plots is created and analyised :
 
    •	Northern Hemisphere: Temperature vs. Latitude
-   
+   ![max_temp_vs_latitude_northern_hemisphere](https://github.com/user-attachments/assets/dd6942dc-9597-4a30-9900-4d125c2f6c85)
+
    •	Southern Hemisphere: Temperature vs. Latitude
    
    •	Northern Hemisphere: Humidity vs. Latitude
    
    •	Southern Hemisphere: Humidity vs. Latitude
-   
+   ![Southern_Hemisphere_Humidiity](https://github.com/user-attachments/assets/c462883d-ca06-4416-8a73-fed2a722199a)
+
    •	Northern Hemisphere: Cloudiness vs. Latitude
 
    •	Southern Hemisphere: Cloudiness vs. Latitude
@@ -42,6 +44,7 @@ Next, a series of scatter plots is created and analyised :
    •	Northern Hemisphere: Wind Speed vs. Latitude
    
    •	Southern Hemisphere: Wind Speed vs. Latitude
+![Northern_Hemisphere_windspeed](https://github.com/user-attachments/assets/0823dd23-ffdd-4110-b6bd-3313b09867b3)
 
 
 # Part 2: VacationPy
@@ -66,17 +69,18 @@ In this part weather data skills was used to plan future vacations. Also, use Ju
 # Table of Contents
   1. vacationPy.ipynb: vacation analysis and visualization jupyter notebook.
   2. weatherPy.ipynb: weather analysis and visualization jupyter notebook.
-  3. Fig1.png: city latitude vs max temp.
-  4. Fig2.png: city latitude vs humidity.
-  5. Fig3.png: city latitude vs cloudness
-  6. Fig4.png: city latitude vs wind.
+  3. CityLatitiude_vs_cloudiness image.
+  4. CityLatitiude_vs_Humidity image.
+  5. CityLatitiude_vs_WindSpeed image.
+  6. CityLatitiude_vs_MaxTemp image.
   7. cities.csv: csv file with the data needed.
+  8. Northern_Hemisphere_cloudniness image.
+  9. Southern_Hemisphere_cloudniness image.
+  10. Northern_Hemisphere_humididity image.
+  11. Southern_Hemisphere_humididity image.
+  12. Northern_Hemisphere_windspeed image.
+  13. Northern_Hemisphere_windspeed image.
      Withing the Jupyter notebook:
-  9. City Humidity Map inside the vacation 
-  10. Hotel Location Map inside the vacation 
-  11. Northern_Hemisphere_cloudniness
-  12. Southern_Hemisphere_cloudniness
-  13. Northern_Hemisphere_humididity
-  14. Southern_Hemisphere_humididity
-  15. Northern_Hemisphere_windspeed
-  16. Northern_Hemisphere_windspeed
+  14. City Humidity Map inside the vacation 
+  15. Hotel Location Map inside the vacation 
+  
